@@ -4,7 +4,7 @@
   }
   @font-face {
     font-family: SOMAR-BLACK;
-    src: url(../fonts/SOMAR-MEDIUM.OTF);
+    src: url(../fonts/SOMAR-REGULAR.OTF);
   }
 
 
@@ -39,7 +39,7 @@ width: 57%;
 }
 
 
-input{
+input,select{
     background-color: #f0f4f7 !important;
     border: 0 !important;
     color: #421980 !important;
@@ -126,6 +126,10 @@ a:active { text-decoration: none; }
     color: #fff;
     background-color: #491c8e;
     border-color: #421980;
+  }
+  .btn-outline-primary{
+    border-color: #421980;
+    color: #421980;
   }
   .btn:hover{
     color: #fff;
