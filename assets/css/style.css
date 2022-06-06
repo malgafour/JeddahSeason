@@ -37,7 +37,11 @@ padding-top: 5%;
 border-bottom-right-radius: 50px;
 width: 57%;
 }
-
+.btn-print{
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+width: 25%;
+}
 
 input,select{
     background-color: #f0f4f7 !important;
