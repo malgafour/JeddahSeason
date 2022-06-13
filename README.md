@@ -1,8 +1,8 @@
 # JeddahSeason
 
 
-1 - Run the script from file : JSScript
-2 - Open Application on VS {Just click on : JeddahSeason.sln }
+1 - Run the script from file : JSScript <br>
+2 - Open Application on VS {Just click on : JeddahSeason.sln } <br>
 3 - Go to slution explorer > JeddahSeason > appsettings.json
 4 - Under ConnectionStrings > DB > Data Source add your server has the db , username and password
 5 - Go to slution explorer > right click on JeddahSeason > set as start up project
